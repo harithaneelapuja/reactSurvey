@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harithaneelapuja.github.io/reactSurvey/static/css/main.eb9a1467.css",
+    "main.js": "/harithaneelapuja.github.io/reactSurvey/static/js/main.3ad959df.js",
+    "static/js/787.25588e91.chunk.js": "/harithaneelapuja.github.io/reactSurvey/static/js/787.25588e91.chunk.js",
+    "index.html": "/harithaneelapuja.github.io/reactSurvey/index.html",
+    "main.eb9a1467.css.map": "/harithaneelapuja.github.io/reactSurvey/static/css/main.eb9a1467.css.map",
+    "main.3ad959df.js.map": "/harithaneelapuja.github.io/reactSurvey/static/js/main.3ad959df.js.map",
+    "787.25588e91.chunk.js.map": "/harithaneelapuja.github.io/reactSurvey/static/js/787.25588e91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb9a1467.css",
+    "static/js/main.3ad959df.js"
+  ]
+}
